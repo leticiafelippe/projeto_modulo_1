@@ -16,7 +16,7 @@ def opcaoInvalida():
     print('Opção inválida. Escolha opção válida.')
 
 def instrucoes():
-    print('O jogo conta com três fases e nelas você precisa sobreviver a sua morte. O intuito do jogo é que você consiga lutar pela vida argumentando com a morte para que ela vá embora sem te levar. Escolha as respostas certas.\n')
+    print('O jogo conta com três fases e nelas você precisa sobreviver ao dia da sua morte. Escolha as respostas corretas.\n')
 
 def boaEscolha():
     print('Boa escolha. Você conseguiu sobreviver até aqui... Vamos ver até quando.\n')
